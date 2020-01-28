@@ -2,7 +2,7 @@
  
 def hello_t(array)
   i = 0
-  while i < array.validates_length_ofi = i +log10end
+  while i < array.length i = i + 1
    end
 end
 
